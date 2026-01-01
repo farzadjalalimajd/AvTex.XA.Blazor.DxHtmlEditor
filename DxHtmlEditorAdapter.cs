@@ -2,11 +2,11 @@
 using DevExpress.ExpressApp.Blazor.Editors.Adapters;
 using DevExpress.ExpressApp.Editors;
 using DevExpress.ExpressApp.Utils;
-using AvTex.ExpressApp.Blazor.Editors.Models;
-using AvTex.ExpressApp.Blazor.Editors.Renderers;
+using GemTex.ExpressApp.Blazor.Editors.Models;
+using GemTex.ExpressApp.Blazor.Editors.Renderers;
 using Microsoft.AspNetCore.Components;
 
-namespace AvTex.ExpressApp.Blazor.Editors.Adapters;
+namespace GemTex.ExpressApp.Blazor.Editors.Adapters;
 
 public sealed class DxHtmlEditorAdapter : ComponentAdapterBase
 {

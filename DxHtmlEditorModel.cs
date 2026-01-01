@@ -1,7 +1,7 @@
 ﻿using DevExpress.ExpressApp.Blazor.Components.Models;
 using Microsoft.AspNetCore.Components;
 
-namespace AvTex.ExpressApp.Blazor.Editors.Models;
+namespace GemTex.ExpressApp.Blazor.Editors.Models;
 
 public sealed class DxHtmlEditorModel : DxComponentModelBase
 {
